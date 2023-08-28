@@ -1,0 +1,39 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.face-snap-card {
+    width: 35%;
+    box-sizing: border-box;
+    box-shadow: lightgray 4px 4px 20px;
+    padding: 20px;
+    margin:20px auto;
+    // img {
+    //     width: 100%;
+    // }
+    // h2{
+    //     font-size: 27px;
+    //     margin-bottom: 0;
+    // }
+    button
+    {
+        box-shadow: lightgray 4px 4px 20px;
+        box-sizing: border-box;
+        outline: none;
+        border: none;
+        background: transparent;
+        padding: 5px;
+        font-weight: bold;
+    }
+}
+// .snapped {
+//     background-color: rgba(lightgreen, 0.4);
+//     color: darkgreen;
+//     button {
+//       box-shadow: lightgreen 3px 3px 7px;
+//       color: darkgreen;
+//       &:active {
+//         box-shadow: lightgreen 0 0 5px;
+//       }
+//     }
+//   }
+
